@@ -9,8 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-Lumaka_Engineering-0a66c2?style=for-the-badge" alt="CEO Lumaka Engineering" />
   <img src="https://img.shields.io/badge/Disponible-Projets-2ea44f?style=for-the-badge" alt="Disponible" />
-  <img src="https://img.shields.io/badge/Français-Natif-555?style=for-the-badge" alt="Français natif" />
-  <a href="https://jephtelumaka.com/"><img src="https://img.shields.io/badge/Portfolio-jephtelumaka.com-181717?style=for-the-badge" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Français-Natif-555?style=for-the-badge" alt="Français" />
 </p>
 
 ---
